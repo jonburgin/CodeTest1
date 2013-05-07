@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="scala 2.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Applications/scala-2.10.0/lib/akka-actors.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/scala-2.10.0/lib/jline.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/scala-2.10.0/lib/scala-actors-migration.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/scala-2.10.0/lib/scala-actors.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/scala-2.10.0/lib/scala-compiler.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/scala-2.10.0/lib/scala-library.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/scala-2.10.0/lib/scala-partest.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/scala-2.10.0/lib/scala-reflect.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/scala-2.10.0/lib/scala-swing.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/scala-2.10.0/lib/scalap.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/scala-2.10.0/lib/typesafe-config.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
